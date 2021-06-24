@@ -1,3 +1,9 @@
+
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 # Project Management Tool - PMT
 
 Free end-to-end project management solution built by Salesforce
